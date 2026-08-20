@@ -7,3 +7,5 @@
 1. ``npx create-expo-app meu-primeiro-app --template blank``
 2. ``SDK 54``
 3.  ``Abrir a pasta criada para ficar no topo (pasta principal)``
+4.  ``Abrir uma pasta src, abir uma pasta App dentro de src, colocar assets dentro de src``
+5. ``Para ocultar alguns arquivos do ws é com o arquivo settings.json``

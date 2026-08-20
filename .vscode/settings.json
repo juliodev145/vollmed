@@ -1,0 +1,16 @@
+//ocultando visualmente os arquivos do workspace do projeto
+{
+  "files.exclude": {
+    "**/.expo": true,
+    "**/node_modules": true,
+    "**/.react": true,
+    "**/.gitignore": true,
+    "**/app.json": true,
+    "**/expo-env.d.ts": true,
+    "**/package-lock.json": true,
+    "**/LICENSE": true,
+    "**/README.md": true,
+    "**/AGENTS.md": true,
+    "**/CLAUDE.md": true,
+  }
+}
